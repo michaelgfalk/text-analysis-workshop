@@ -1,6 +1,7 @@
 # Private course files
 week-9-sentiment-analysis
 week-8-tokenisation
+*/workshop/nltk_data
 
 # Unneeded nbgrader clutter
 gradebook.db

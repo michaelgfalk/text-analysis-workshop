@@ -2,9 +2,15 @@
 
 An introductory workshop for students with some knowledge of Python and pandas.
 
+## Run in Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelgfalk/text-analysis-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2Frelease%2Fworkshop%2Ftext-analysis-workshop.ipynb)
+
+This is the easiest way to run the workshop. Open the student version of the workshop in Binder, will all dependencies installed.
+
 ## Installation
 
-The best way to run the workshop is with `uv` and a virtual environment.
+The best way to run the workshop locally is with `uv` and a virtual environment.
 
 ```{bash}
 uv venv --python 3.15

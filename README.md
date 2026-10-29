@@ -13,3 +13,7 @@ uv pip install -r requirements.txt
 jupyter lab .
 ```
 
+## Dependency Management
+
+The workshop is designed for use on the ARDC BinderHub service. That service relies on conda for dependency management, while I use `uv`. Accordingly, there are `requirements.txt` and `.python-version` files as well as an `environment.yml` file. Note to self: don't allow these to get out of sync! (Unlikely...)
+
